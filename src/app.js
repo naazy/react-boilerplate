@@ -3,4 +3,4 @@ import ReactDOM from 'react-dom';
 import 'normalize.css/normalize.css';
 import './styles/styles.scss';
 
-ReactDOM.render(<p>my boiler plate</p>);
+ReactDOM.render(<p>my boiler plate</p>, document.getElementById('app'));
